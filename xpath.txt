@@ -1,0 +1,6 @@
+Links = //div[contains(@class,"itle")]//h2/a/@href
+Title = //div[@class="mb-auto"]/h2/a/text()
+Summary = //div[@class="lead"]/p/text()
+Date = //span[@class="date"]/text()
+Author = //div[@class="autorArticle"]/p/text()
+Body = //div[@class="html-content"]/p/text()

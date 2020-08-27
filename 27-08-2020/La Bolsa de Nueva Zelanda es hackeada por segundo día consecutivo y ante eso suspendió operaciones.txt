@@ -1,0 +1,12 @@
+La Bolsa de Nueva Zelanda es hackeada por segundo día consecutivo y ante eso suspendió operaciones
+Autor: 
+Diario Financiero        , fecha: miércoles, 26 de agosto de 2020
+
+Mediante un comunicado de prensa, NZX admitió que se trató de un ciberataque que tenía como objetivo "interrumpir el servicio"
+
+La ciberseguridad vuelve al telón de la industria financiera. Ahora los ojos del mercado se volcaron a Nueva Zelanda. El operador de la bolsa local, el NZX, sufrió por segundo día consecutivo un ciberataque y que significó la suspensión de las transacciones durante una hora.
+Se detalló que las operaciones que tuvieron que cerrar momentáneamente incluyó la placa principal de NZX y su mercado de deuda, como también de Fonterra Shareholders Market.
+Mediante un comunicado de prensa, NZX admitió que se trató de un ciberataque que tenía como objetivo "interrumpir el servicio saturando una red con volúmenes significativos de tráfico de Internet".
+El operador de la plaza neozelandesa indicó que el ataque informático "se pudo mitigar y ahora se ha restaurado la conectividad para NZX".
+Asimismo, declaró que "ha estado en estrecho contacto con los participantes del mercado y agradece el apoyo y el nivel de comprensión durante los períodos de interrupción del comercio".
+El profesor Dave Parry, del Departamento de Ciencias de la Computación de AUT, dijo al New Zealand Herald que se trataba de un ataque muy grave a la infraestructura crítica de Nueva Zelanda: "El hecho de que esto haya sucedido en un segundo día indica un nivel de sofisticación y determinación que es relativamente raro", sostuvo el académico.
